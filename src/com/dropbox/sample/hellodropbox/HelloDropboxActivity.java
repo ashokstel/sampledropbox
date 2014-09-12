@@ -130,4 +130,10 @@ public class HelloDropboxActivity extends Activity {
             mTestOutput.setText("Dropbox test failed: " + e);
         }
     }
+
+
+	public sampleMethod()
+	{	
+		This is the sample code to test merging of the content.
+	}
 }
